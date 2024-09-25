@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @Isabarwcho
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-### Boas vindas ao meu perfil :blue_heart
+
 
 Meu nome é Isabella Caroline
 
@@ -17,10 +10,4 @@ Meu nome é Isabella Caroline
 
 isabella.barucho@escola.pr.gov.br
 
-@isabarwcho
-
-![descrição do GIF](link GIF do Tenor)
-<!---
-Isabarwcho/Isabarwcho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://media1.tenor.com/m/M_qLhUdxR2MAAAAC/inside-out-inside-out-joy.gif)
