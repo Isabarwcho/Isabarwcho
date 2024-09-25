@@ -15,9 +15,9 @@ Meu nome é Isabella Caroline
 
 ### Você pode entrar em contato comigo :mailbox
 
-paludettomarcelo@gmail.com
+isabella.barucho@escola.pr.gov.br
 
-@marcelopaludetto
+@isabarwcho
 
 ![descrição do GIF](link GIF do Tenor)
 <!---
